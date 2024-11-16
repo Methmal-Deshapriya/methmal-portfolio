@@ -28,7 +28,7 @@ const NavBar = () => {
           <FaFacebook className="cursor-pointer" />
         </a>
 
-        <a href="">
+        <a href="https://www.instagram.com/methmaldeshapriya/profilecard/?igsh=eXdweHE3cmdlbzI5 ">
           <FaInstagram className="cursor-pointer" />
         </a>
       </div>
